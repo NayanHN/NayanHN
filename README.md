@@ -1,4 +1,4 @@
-### Hi there 👋
+Creating custom yocto layer
 
 <!--
 **NayanHN/NayanHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
